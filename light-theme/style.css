@@ -12,7 +12,7 @@ body {
 }
 
 button {
-    margin-right: 45%;
+    float: left;
     color: #288be6;
     background-color: transparent;
     border: transparent;
